@@ -1,4 +1,2 @@
-symfonyProject
+# Workflow PTUT 1.0.0
 ==============
-
-A Symfony project created on January 31, 2018, 1:19 am.
