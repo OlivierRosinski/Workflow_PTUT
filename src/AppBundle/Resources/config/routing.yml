@@ -1,0 +1,11 @@
+
+coucou:
+    path:     /coucou
+    defaults: { _controller: AppBundle:Test:myFunction }
+
+# _controller: AppBundle:Test:myFunction
+#
+# AppBundle   --->  indique le Bundle
+# Test        --->  indique le controller dans le Bundle
+# myFunction  --->  indique la fonction/méthode(?) dans le controller
+
